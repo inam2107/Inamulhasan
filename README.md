@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inamul Hasan</h1>
 <h3 align="center">A passionate frontend and Backwnd developer from Srilanka</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/pinterest--311381761734186207/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inam2107&label=Profile%20views&color=0e75b6&style=flat" alt="inam2107" /> </p>
 
 - 🌱 I’m currently learning **MERN stack Technology**
